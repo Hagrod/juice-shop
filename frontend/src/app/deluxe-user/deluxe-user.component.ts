@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014-2023 Bjoern Kimminich & the OWASP Juice Shop contributors.
+ * Copyright (c) 2014-2023 Bjoern Kimminich & the Dyno Shop contributors.
  * SPDX-License-Identifier: MIT
  */
 
@@ -19,7 +19,7 @@ import { SocketIoService } from '../Services/socket-io.service'
 export class DeluxeUserComponent implements OnInit {
   public membershipCost: Number = 0
   public error: string = undefined
-  public applicationName = 'OWASP Juice Shop'
+  public applicationName = 'Dyno Shop'
   public logoSrc: string = 'assets/public/images/JuiceShop_Logo.png'
 
   constructor (private readonly router: Router, private readonly userService: UserService, private readonly cookieService: CookieService, private readonly configurationService: ConfigurationService, private readonly route: ActivatedRoute, private readonly ngZone: NgZone, private readonly io: SocketIoService) {

@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014-2023 Bjoern Kimminich & the OWASP Juice Shop contributors.
+ * Copyright (c) 2014-2023 Bjoern Kimminich & the Dyno Shop contributors.
  * SPDX-License-Identifier: MIT
  */
 
@@ -140,9 +140,9 @@ describe('OrderCompletionComponent', () => {
 
   it('should use configured application name as a fallback for missing twitter URL', () => {
     trackOrderService.find.and.returnValue(of({ data: [{ products: [] }] }))
-    configurationService.getApplicationConfiguration.and.returnValue(of({ application: { name: 'OWASP Juice Shop', social: { twitterUrl: null } } }))
+    configurationService.getApplicationConfiguration.and.returnValue(of({ application: { name: 'Dyno Shop', social: { twitterUrl: null } } }))
     component.ngOnInit()
-    expect(component.tweetText).toBe('I just purchased%0afrom OWASP Juice Shop')
+    expect(component.tweetText).toBe('I just purchased%0afrom Dyno Shop')
   })
 
   it('should log error while getting application configuration from backend API directly to browser console', fakeAsync(() => {

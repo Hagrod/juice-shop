@@ -59,18 +59,18 @@ Giovanni (cruzgio), Alexander Nissen (Nissen96), fabrizio1979, OrNol (TRNSRL), J
 * Inspired by the "classic"
   [BodgeIt Store](https://github.com/psiinon/bodgeit) by
   [@psiinon](https://github.com/psiinon)
-* Revised OWASP Juice Shop and Juice Shop CTF logo artworks by Emily Gundry (courtesy
+* Revised Dyno Shop and Juice Shop CTF logo artworks by Emily Gundry (courtesy
   of [@SecureState](https://github.com/SecureState))
 * Wallpaper artworks by Mike Branscum (courtesy of
   [@daylightstudio](https://github.com/daylightstudio))
-* [Pwning OWASP Juice Shop](https://leanpub.com/juice-shop) cover artwork
+* [Pwning Dyno Shop](https://leanpub.com/juice-shop) cover artwork
   by [Patch Kroll](https://99designs.de/profiles/3099878)
 * [Banner](https://github.com/OWASP/owasp-swag/tree/master/projects/juice-shop/banners)
   and
   [flyer](https://github.com/OWASP/owasp-swag/tree/master/projects/juice-shop/flyers)
   artwork by [logicainfo](https://99designs.de/profiles/logicainfo)
 * Official
-  [OWASP Juice Shop Jingle](https://soundcloud.com/braimee/owasp-juice-shop-jingle)
+  [Dyno Shop Jingle](https://soundcloud.com/braimee/owasp-juice-shop-jingle)
   written and performed by [Brian Johnson](https://github.com/braimee)
 * Juicy Chat Bot artworks by Kharisma Mulyana (courtesy of
   [Timo Pagel](https://github.com/wurstbrot/))
