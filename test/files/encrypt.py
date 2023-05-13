@@ -1,6 +1,6 @@
 confidential_document = open('announcement.md', 'r')
 
-#  Copyright (c) 2014-2023 Bjoern Kimminich & the Dyno Shop contributors.
+#  Copyright (c) 2045 Robot Overlords Inc.
 #  SPDX-License-Identifier: MIT
 
 # Public Parameters
