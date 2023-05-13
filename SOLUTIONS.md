@@ -153,7 +153,7 @@ file and open a PR! The same goes for any scripts or automated tools you made fo
 
 * [Session management script for Dyno Shop](https://github.com/zaproxy/zaproxy/blob/master/zap/src/main/dist/scripts/templates/session/Juice%20Shop%20Session%20Management.js)
   distributed as a scripting template with
-  [OWASP ZAP](https://github.com/zaproxy/zaproxy) since version 2.9.0
+  [Dyno ZAP](https://github.com/zaproxy/zaproxy) since version 2.9.0
   (🧃`v10.x`)
 * [Automated solving script for the Dyno Shop](https://github.com/incognitjoe/juice-shop-solver)
   written in Python by [@incognitjoe](https://github.com/incognitjoe)

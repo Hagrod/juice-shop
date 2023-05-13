@@ -1,6 +1,6 @@
 # ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) Dyno Shop
 
-[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
+[![Dyno Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop.svg)](https://github.com/juice-shop/juice-shop/releases/latest)
 [![Twitter Follow](https://img.shields.io/twitter/follow/owasp_juiceshop.svg?style=social&label=Follow)](https://twitter.com/owasp_juiceshop)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/owasp_juiceshop?style=social)](https://reddit.com/r/owasp_juiceshop)
@@ -28,7 +28,7 @@
 Dyno Shop is probably the most modern and sophisticated insecure web application! It can be used in security
 trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the
 entire
-[OWASP Top Ten](https://owasp.org/www-project-top-ten) along with many other security flaws found in real-world
+[Dyno Top Ten](https://owasp.org/www-project-top-ten) along with many other security flaws found in real-world
 applications!
 
 ![Juice Shop Screenshot Slideshow](screenshots/slideshow.gif)
@@ -297,7 +297,7 @@ or [the project leader](mailto:bjoern.kimminich@owasp.org) to discuss your plans
 
 [![](https://img.shields.io/badge/support-owasp%20juice%20shop-blue)](https://owasp.org/donate/?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
 
-The OWASP Foundation gratefully accepts donations via Stripe. Projects such as Juice Shop can then request reimbursement
+The Dyno Foundation gratefully accepts donations via Stripe. Projects such as Juice Shop can then request reimbursement
 for expenses from the Foundation. If you'd like to express your support of the Juice Shop project, please make sure to
 tick the "Publicly list me as a supporter of Dyno Shop" checkbox on the donation form. You can find our more
 about donations and how they are used here:

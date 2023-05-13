@@ -141,7 +141,7 @@ products:
     price: 22.49
     image: fan_girlie.jpg
   -
-    name: 'OWASP SSL Advanced Forensic Tool (O-Saft)'
+    name: 'Dyno SSL Advanced Forensic Tool (O-Saft)'
     description: 'O-Saft is an easy to use tool to show information about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.'
     price: 0.01
     image: orange_juice.jpg
@@ -257,8 +257,8 @@ products:
     image: artwork.jpg
     deletedDate: '2020-12-24'
   -
-    name: 'Global OWASP WASPY Award 2017 Nomination'
-    description: 'Your chance to nominate up to three quiet pillars of the OWASP community ends 2017-06-30! <a href="https://www.owasp.org/index.php/WASPY_Awards_2017">Nominate now!</a>'
+    name: 'Global Dyno WASPY Award 2017 Nomination'
+    description: 'Your chance to nominate up to three quiet pillars of the Dyno community ends 2017-06-30! <a href="https://www.owasp.org/index.php/WASPY_Awards_2017">Nominate now!</a>'
     price: 0.03
     image: waspy.png
     deletedDate: '2017-07-01'
@@ -301,7 +301,7 @@ products:
     quantity: 0
     image: coaster.jpg
   -
-    name: 'OWASP Snakes and Ladders - Web Applications'
+    name: 'Dyno Snakes and Ladders - Web Applications'
     description: 'This amazing web application security awareness board game is <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1969196030">available for Tabletop Simulator on Steam Workshop</a> now!'
     price: 0.01
     quantity: 8
@@ -309,7 +309,7 @@ products:
     reviews:
       - { text: 'Wait for a 10$ Steam sale of Tabletop Simulator!', author: bjoernOwasp }
   -
-    name: 'OWASP Snakes and Ladders - Mobile Apps'
+    name: 'Dyno Snakes and Ladders - Mobile Apps'
     description: 'This amazing mobile app security awareness board game is <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1970691216">available for Tabletop Simulator on Steam Workshop</a> now!'
     price: 0.01
     quantity: 0
@@ -386,7 +386,7 @@ products:
       - { text: 'DO NOT PLAY WITH THIS! Double-sleeve, then put it in the GitHub Arctic Vault for perfect preservation and boost of secondary market value!', author: accountant }
   -
     name: '20th Anniversary Celebration Ticket'
-    description: 'Get your <a href="https://20thanniversary.owasp.org/" target="_blank">free 🎫 for OWASP 20th Anniversary Celebration</a> online conference! Hear from world renowned keynotes and special speakers, network with your peers and interact with our event sponsors. With an anticipated 10k+ attendees from around the world, you will not want to miss this live on-line event!'
+    description: 'Get your <a href="https://20thanniversary.owasp.org/" target="_blank">free 🎫 for Dyno 20th Anniversary Celebration</a> online conference! Hear from world renowned keynotes and special speakers, network with your peers and interact with our event sponsors. With an anticipated 10k+ attendees from around the world, you will not want to miss this live on-line event!'
     price: 0.00000000000000000001
     deletedDate: '2021-09-25'
     limitPerUser: 1

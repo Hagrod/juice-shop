@@ -397,7 +397,7 @@ describe('configValidation', () => {
     const config = {
       application: {
         domain: 'juice-b.ox',
-        name: 'OWASP Juice Box',
+        name: 'Dyno Juice Box',
         welcomeBanner: {
           showOnFirstStart: false
         }
@@ -414,7 +414,7 @@ describe('configValidation', () => {
     const config = {
       application: {
         domain: 42,
-        id: 'OWASP Juice Box',
+        id: 'Dyno Juice Box',
         welcomeBanner: {
           showOnFirstStart: 'yes'
         }

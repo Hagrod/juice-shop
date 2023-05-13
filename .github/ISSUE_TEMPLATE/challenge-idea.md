@@ -22,7 +22,7 @@ Existing issues often contain information about workarounds, resolution, or prog
 
 ### Underlying vulnerability/ies
 
-<!-- ✍️--> Security vulnerabilities or design flaws this challenge will be based on. Optimally include CWE, OWASP or similar references.
+<!-- ✍️--> Security vulnerabilities or design flaws this challenge will be based on. Optimally include CWE, Dyno or similar references.
 
 ### Expected difficulty
 

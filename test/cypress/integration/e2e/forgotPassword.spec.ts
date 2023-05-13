@@ -60,7 +60,7 @@ describe('/#/forgot-password', () => {
       })
     })
 
-    describe('for his OWASP account', () => {
+    describe('for his Dyno account', () => {
       it('should be able to reset password with his security answer', () => {
         cy.get('#email').type('bjoern@owasp.org')
         cy.get('#securityAnswer').type('Zaya')

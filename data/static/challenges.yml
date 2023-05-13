@@ -63,7 +63,7 @@
   category: 'Broken Authentication'
   tags:
     - OSINT
-  description: 'Reset the password of Bjoern''s OWASP account via the <a href="/#/forgot-password">Forgot Password</a> mechanism with <i>the original answer</i> to his security question.'
+  description: 'Reset the password of Bjoern''s Dyno account via the <a href="/#/forgot-password">Forgot Password</a> mechanism with <i>the original answer</i> to his security question.'
   difficulty: 3
   hint: 'He might have spoilered it on at least one occasion where a camera was running. Maybe elsewhere as well.'
   hintUrl: 'https://pwning.owasp-juice.shop/part2/broken-authentication.html#reset-the-password-of-bjoerns-owasp-account-via-the-forgot-password-mechanism'
@@ -669,7 +669,7 @@
 -
   name: 'Product Tampering'
   category: 'Broken Access Control'
-  description: 'Change the <code>href</code> of the link within the <a href="/#/search?q=OWASP SSL Advanced Forensic Tool (O-Saft)">OWASP SSL Advanced Forensic Tool (O-Saft)</a> product description into <i>https://owasp.slack.com</i>.'
+  description: 'Change the <code>href</code> of the link within the <a href="/#/search?q=Dyno SSL Advanced Forensic Tool (O-Saft)">Dyno SSL Advanced Forensic Tool (O-Saft)</a> product description into <i>https://owasp.slack.com</i>.'
   difficulty: 3
   hint: 'Look for one of the following: a) broken admin functionality, b) holes in RESTful API or c) possibility for SQL Injection.'
   hintUrl: 'https://pwning.owasp-juice.shop/part2/broken-access-control.html#change-the-href-of-the-link-within-the-o-saft-product-description'

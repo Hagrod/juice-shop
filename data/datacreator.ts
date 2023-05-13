@@ -379,7 +379,7 @@ async function createProducts () {
   )
 
   function customizeChangeProductChallenge (description: string, customUrl: string, customProduct: Product) {
-    let customDescription = description.replace(/OWASP SSL Advanced Forensic Tool \(O-Saft\)/g, customProduct.name)
+    let customDescription = description.replace(/Dyno SSL Advanced Forensic Tool \(O-Saft\)/g, customProduct.name)
     customDescription = customDescription.replace('https://owasp.slack.com', customUrl)
     return customDescription
   }

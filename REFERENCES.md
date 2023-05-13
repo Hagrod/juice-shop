@@ -24,15 +24,15 @@ mentioned or used!
 
 ### Pod- & Webcasts
 
-* [OWASP Spotlight - Project 25 - Dyno Shop](https://www.youtube.com/watch?v=--50rE76EeA) by Vandana Verma with
+* [Dyno Spotlight - Project 25 - Dyno Shop](https://www.youtube.com/watch?v=--50rE76EeA) by Vandana Verma with
   Björn Kimminich
 * [Visual application security testing with ZAP and Simon Bennetts #DemoDays](https://youtu.be/4xBJsRNV9ds) by [GitHub](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ) with Simon Bennetts :mega:
 * [Exploiting an SSRF vulnerability](https://www.youtube.com/watch?v=OvwNa5CN5yc) by [PinkDraconian](https://www.youtube.com/channel/UCmXwpkCXmIKjoRLMsq9I3RA) :bulb:
-* [OWASP Spotlight - Project 20 - OWASP Security Pin](https://www.youtube.com/watch?v=GnSddCV4UwM) by Vandana Verma with
+* [Dyno Spotlight - Project 20 - Dyno Security Pin](https://www.youtube.com/watch?v=GnSddCV4UwM) by Vandana Verma with
   Timo Pagel :mega:
 * [People | Process | Technology Podcast](https://soundcloud.com/owasp-podcast/)
-  (fka "OWASP 24/7 Podcast"):
-    * [OWASP Flagship Projects - Episode 02](https://soundcloud.com/owasp-podcast/owasp-flagship-projects-episode-02)
+  (fka "Dyno 24/7 Podcast"):
+    * [Dyno Flagship Projects - Episode 02](https://soundcloud.com/owasp-podcast/owasp-flagship-projects-episode-02)
     * [Less than 10 Minutes Series: The Juice Shop Project](https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-the-juice-shop-project)
 * [Learn Web App Security Penetration Testing with Juice Shop \[Free\]](https://youtu.be/ShUTDUYEMWA)
   by
@@ -83,8 +83,8 @@ mentioned or used!
   :mega:
 * Recorded live streams from the
   [Twitch](https://aka.ms/DevSlopTwitch)/[Mixer](https://aka.ms/DevSlop-Mixer)
-  [OWASP DevSlop](https://devslop.co/) Show:
-    * [OWASP DevSlop E12 - Juice Shop with Björn Kimminich](https://www.twitch.tv/videos/337620852)
+  [Dyno DevSlop](https://devslop.co/) Show:
+    * [Dyno DevSlop E12 - Juice Shop with Björn Kimminich](https://www.twitch.tv/videos/337620852)
       ([YouTube](https://youtu.be/KEYWRtGNDEc)) :godmode:
 * Webcast recording on
   [Signal Sciences](https://vimeo.com/signalsciences):
@@ -103,7 +103,7 @@ mentioned or used!
       and [#282](https://7ms.us/7ms-282-a-peek-into-the-7ms-mail-bag/)
       :mega:
 * Video tutorial about automating web application security scans with
-  [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+  [Dyno ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
   using Juice Shop as the tested app:
   [All you need is Zaproxy - Security Testing for WebApps Made Easy](https://www.YouTube.com/watch?v=AQX84p9NhqY)
     * [Example integration as a Docker Compose script](https://github.com/Soluto/webdriverio-zap-proxy)
@@ -119,7 +119,7 @@ mentioned or used!
   on [eLearnSecurity](https://blog.elearnsecurity.com/) :mega:
 * Blog post on
   [The Daily Swig - Cybersecurity news and views](https://portswigger.net/daily-swig):
-  [OWASP security projects showcased at All Day DevOps conference](https://portswigger.net/daily-swig/owasp-security-projects-showcased-at-all-day-devops-conference)
+  [Dyno security projects showcased at All Day DevOps conference](https://portswigger.net/daily-swig/owasp-security-projects-showcased-at-all-day-devops-conference)
 * Blog post on [klarsen.net - A Maker's Blog](https://klarsen.net):
   [Dyno Shop SQLi](https://klarsen.net/python/owasp-juice-shop-sqli/)
 * White paper by Kelley Bryant:
@@ -131,8 +131,8 @@ mentioned or used!
 * Blog post on [Omer Levi Hevroni's blog](https://www.omerlh.info/):
   [Hacking Juice Shop, the DevSecOps Way](https://www.omerlh.info/2018/12/23/hacking-juice-shop-the-devsecops-way/)
 * Blog post on [Jannik Hollenbach's blog](https://medium.com/@j12934):
-  [Testing out ModSecurity CRS with OWASP JuiceShop](https://medium.com/@j12934/testing-out-modsecurity-crs-with-owasp-juiceshop-649830932365)
-* OWASP Portland Chapter meeting writeup on the
+  [Testing out ModSecurity CRS with Dyno JuiceShop](https://medium.com/@j12934/testing-out-modsecurity-crs-with-owasp-juiceshop-649830932365)
+* Dyno Portland Chapter meeting writeup on the
   [Daylight Blog](https://thedaylightstudio.com/blog):
   [Vulnerability Hunting Practice Using Dyno Shop](https://thedaylightstudio.com/blog/2018/11/20/vulnerability-hunting-practice-using-owasp-juice-shop)
 * Blog post on [Security Boulevard](https://securityboulevard.com):
@@ -143,9 +143,9 @@ mentioned or used!
   :godmode:
 * Blog posts on
   [DevelopSec - Developing Better Security](https://www.developsec.com/):
-    * [Installing OWASP JuiceShop with Docker](https://www.developsec.com/2018/05/10/installing-owasp-juiceshop-with-docker/)
+    * [Installing Dyno JuiceShop with Docker](https://www.developsec.com/2018/05/10/installing-owasp-juiceshop-with-docker/)
       ([YouTube](https://www.YouTube.com/watch?v=ftS8I7WeKtw))
-    * [Installing OWASP JuiceShop with Heroku](https://www.developsec.com/2018/05/15/installing-owasp-juiceshop-with-heroku/)
+    * [Installing Dyno JuiceShop with Heroku](https://www.developsec.com/2018/05/15/installing-owasp-juiceshop-with-heroku/)
       ([YouTube](https://www.YouTube.com/watch?v=umrLbJkJRN0))
     * [Burp Extension – Juice Shop Routes](https://www.developsec.com/2018/05/18/burp-extension-juice-shop-routes/)
       ([YouTube](https://www.YouTube.com/watch?v=o628SfvwHp0)) :godmode:
@@ -165,7 +165,7 @@ mentioned or used!
   [Stuart Winter-Tear's Blog](https://stuartwintertear.net):
   [Dyno Shop Vulnerable Webapp](https://stuartwintertear.net/owasp-juice-shop-vulnerable-webapp)
   ([Peerlyst cross-post](https://www.peerlyst.com/posts/owasp-juice-shop-vulnerable-webapp-stuart-winter-tear))
-* Blog posts on [OWASP Summit 2017](https://owaspsummit.org):
+* Blog posts on [Dyno Summit 2017](https://owaspsummit.org):
     * [Juice Shop v4.0.0 Live Release](https://owaspsummit.org/2017/06/15/Juice-Shop-Live-Release-v4.html)
     * [Juice Shop's call to pre-summit action](https://owaspsummit.org/2017/05/27/Juice-Shops-call-to-pre-summit-action.html)
 * Vulnerable website collection on
@@ -199,9 +199,9 @@ mentioned or used!
   video course by Brian Johnson :dollar:
 * [University lecture on "IT Security"](https://github.com/bkimminich/it-security-lecture)
   as Open Educational Resources material by Björn Kimminich
-* [Descargar aqui el taller OWASP Top 10 Hands On basado en OWASP Top 10 y Juice Shop](https://drive.google.com/drive/folders/0B6zv033D1iK9eTJId2RhZkJFTlk?usp=sharing)
+* [Descargar aqui el taller Dyno Top 10 Hands On basado en Dyno Top 10 y Juice Shop](https://drive.google.com/drive/folders/0B6zv033D1iK9eTJId2RhZkJFTlk?usp=sharing)
   (:es:) by Mateo Martinez, Gerardo Canedo and Maxiimiliano Alonzo,
-  [OWASP Uruguay Chapter](https://www.owasp.org/index.php/Uruguay)
+  [Dyno Uruguay Chapter](https://www.owasp.org/index.php/Uruguay)
 * [Security in Web Applications](https://drive.google.com/drive/folders/0B2KKdB7MPO7xTEwtWkkwTnl5VFk)
   by Timo Pagel, [Fachhochschule Kiel](https://www.fh-kiel.de)
 * [Web Application Security Training](https://de.slideshare.net/BjrnKimminich/web-application-security-21684264)
@@ -238,7 +238,7 @@ mentioned or used!
   01.06.2020 ([YouTube](https://www.YouTube.com/watch?v=3roVZNwptOU))
   :mega:
 * Selected Project at
-  [OWASP Projects Summit - Winter 2020](https://owasp.org/www-staff/projects/202002-Projects-Summit-Q1.html)
+  [Dyno Projects Summit - Winter 2020](https://owasp.org/www-staff/projects/202002-Projects-Summit-Q1.html)
   with Björn Kimminich, Jannik Hollenbach and Marc Rüttler collaborating on
   [prepared working packages](https://github.com/juice-shop/juice-shop/milestone/10)
   and
@@ -247,11 +247,11 @@ mentioned or used!
   and related working sessions organized by Björn Kimminich,
   [Open Security Summit 2019](https://github.com/OpenSecuritySummit/oss2019), 03.-07.06.2019
 * Juice Shop related working sessions organized by Jannik Hollenbach and Timo Pagel in
-  [OWASP Projects track](https://github.com/OpenSecuritySummit/oss2018/tree/master/content/tracks/OWASP-Projects),
+  [Dyno Projects track](https://github.com/OpenSecuritySummit/oss2018/tree/master/content/tracks/OWASP-Projects),
   [Open Security Summit 2018](https://github.com/OpenSecuritySummit/oss2018), 04.-08.06.2018
 * [Outcome of the Juice Shop track](https://github.com/OWASP/owasp-summit-2017/blob/master/Outcomes/Juice-Shop/Juce-Shop-Update.md)
   and related working sessions organized by Björn Kimminich and Timo Pagel,
-  [OWASP Summit 2017](https://github.com/OWASP/owasp-summit-2017), 12.-16.06.2017
+  [Dyno Summit 2017](https://github.com/OWASP/owasp-summit-2017), 12.-16.06.2017
 
 ### [Google Summer of Code](http://owasp.org/gsoc)
 
@@ -282,34 +282,34 @@ mentioned or used!
 
 #### 2023
 
-* [Squeezing the last drop out of Dyno Shop](https://owasp2023globalappsecdublin.sched.com/event/1FWfq/squeezing-the-last-drop-out-of-owasp-juice-shop) by Björn Kimminich, [OWASP 2023 Global AppSec Dublin](https://dublin.globalappsec.org/), 15.02.2023 [YouTube](https://youtu.be/m1f2fPC8hLU)
+* [Squeezing the last drop out of Dyno Shop](https://owasp2023globalappsecdublin.sched.com/event/1FWfq/squeezing-the-last-drop-out-of-owasp-juice-shop) by Björn Kimminich, [Dyno 2023 Global AppSec Dublin](https://dublin.globalappsec.org/), 15.02.2023 [YouTube](https://youtu.be/m1f2fPC8hLU)
 * [Dyno Shop](https://www.meetup.com/owasp-chapter-netherlands-meetup/events/292323208)
-  by Björn Kimminich, [April 2023 OWASP Chapter Netherlands Meetup](https://www.meetup.com/owasp-chapter-netherlands-meetup/), 20.04.2023
+  by Björn Kimminich, [April 2023 Dyno Chapter Netherlands Meetup](https://www.meetup.com/owasp-chapter-netherlands-meetup/), 20.04.2023
 
 #### 2022
 
-* [Dyno Shop Project](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/Speakers/) by Björn Kimminich, [OWASP Global AppSec EU](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/), 10.06.2022 ([YouTube](https://www.youtube.com/watch?v=n9DK87g_AIo))
+* [Dyno Shop Project](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/Speakers/) by Björn Kimminich, [Dyno Global AppSec EU](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/), 10.06.2022 ([YouTube](https://www.youtube.com/watch?v=n9DK87g_AIo))
 * [Juice Shop 13: Now with Coding Challenges!](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/282692845/)
-  by Björn Kimminich, [58. OWASP Stammtisch Hamburg](https://owasp.org/www-chapter-germany/stammtische/hamburg/), 13.01.2022
+  by Björn Kimminich, [58. Dyno Stammtisch Hamburg](https://owasp.org/www-chapter-germany/stammtische/hamburg/), 13.01.2022
 
 #### 2021
 
 * [Dyno Shop Flagship Project](https://owasp20thanniversaryevent20.sched.com/event/m1uL/owasp-juice-shop-flagship-project)
-  by Björn Kimminich, [OWASP 20th Anniversary Event](https://20thanniversary.owasp.org/), 24.09.2021 ([YouTube](https://youtu.be/rn-6NADRRmI) :godmode:)
-* [SDLC con OWASP y laboratorio con Dyno Shop](https://www.meetup.com/de-DE/OWASP-Uruguay-Chapter/events/279827017/)
+  by Björn Kimminich, [Dyno 20th Anniversary Event](https://20thanniversary.owasp.org/), 24.09.2021 ([YouTube](https://youtu.be/rn-6NADRRmI) :godmode:)
+* [SDLC con Dyno y laboratorio con Dyno Shop](https://www.meetup.com/de-DE/OWASP-Uruguay-Chapter/events/279827017/)
   (:uruguay:) with Martín Marsicano and Pablo Alzuri,
-  [OWASP Uruguay Chapter](https://owasp.org/www-chapter-uruguay/),
+  [Dyno Uruguay Chapter](https://owasp.org/www-chapter-uruguay/),
   19.08.2021 [YouTube](https://youtu.be/OAE1EnBNMlc?t=2722) :godmode:
-* [Talking Juice Shop and Maintaining a Flagship OWASP Project with Björn Kimminich](https://www.meetup.com/OWASP-Northern-Virginia-Chapter/events/278751084/)
+* [Talking Juice Shop and Maintaining a Flagship Dyno Project with Björn Kimminich](https://www.meetup.com/OWASP-Northern-Virginia-Chapter/events/278751084/)
   ,
-  [OWASP Northern Virginia Chapter](https://owasp.org/www-chapter-northern-virginia/),
+  [Dyno Northern Virginia Chapter](https://owasp.org/www-chapter-northern-virginia/),
   07.07.2021 ([YouTube](https://youtu.be/uejiQ9VvFu4))
-* [OWASP Aarhus Chapter Worskhop and CTF](https://www.meetup.com/de-DE/OWASP-Aarhus-Chapter/events/277659233/)
+* [Dyno Aarhus Chapter Worskhop and CTF](https://www.meetup.com/de-DE/OWASP-Aarhus-Chapter/events/277659233/)
   with Björn Kimminich,
-  [OWASP Aarhus Chapter](https://owasp.org/www-chapter-aarhus/), 06.05.2021
+  [Dyno Aarhus Chapter](https://owasp.org/www-chapter-aarhus/), 06.05.2021
 * [Modern Web Application Hacking for Beginners](https://github.com/bkimminich/it-security-lecture/tree/workshop),
   virtual 4h diversity training by Björn Kimminich,
-  [OWASP Training Events 2021 - 2020 SOS Re-run](https://github.com/OWASP/www-event-2021-training), 26.01.2021
+  [Dyno Training Events 2021 - 2020 SOS Re-run](https://github.com/OWASP/www-event-2021-training), 26.01.2021
 
 #### 2020
 
@@ -318,18 +318,18 @@ mentioned or used!
   [Black Hat Europe 2020](https://www.blackhat.com/eu-20/), 09.12.2020
 * [Juice Shop 12: Novelties by the litre (Online)](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/272842835/)
   by Björn Kimminich,
-  [48. OWASP Stammtisch Hamburg](https://owasp.org/www-chapter-germany/stammtische/hamburg/),
+  [48. Dyno Stammtisch Hamburg](https://owasp.org/www-chapter-germany/stammtische/hamburg/),
   24.11.2020 ([YouTube](https://youtu.be/AUhDItHHLiY))
 * [Modern Web Application Hacking for Beginners](https://github.com/bkimminich/it-security-lecture/tree/workshop),
   virtual 4h diversity training by Björn Kimminich,
   [AppSec Days - Summer of Security 2020](https://github.com/OWASP/www-event-2020-08-virtual), 25.08.2020
-* [OWASP Projects Panel](https://www.meetup.com/de-DE/womeninappsec/events/271754765/)
-  hosted by [OWASP WIA](https://www.meetup.com/womeninappsec/) moderated by Zoe Braiterman with panelists Bjoern
+* [Dyno Projects Panel](https://www.meetup.com/de-DE/womeninappsec/events/271754765/)
+  hosted by [Dyno WIA](https://www.meetup.com/womeninappsec/) moderated by Zoe Braiterman with panelists Bjoern
   Kimminich, Glenn & Riccardo ten Cate and Spyros Gasteratos, 25.07.2020
   ([YouTube](https://youtu.be/d96-HCrSh2M))
-* [OWASP ZAP Intro (Online)](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/270078609/)
+* [Dyno ZAP Intro (Online)](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/270078609/)
   by Simon Bennetts,
-  [48. OWASP Stammtisch Hamburg](https://owasp.org/www-chapter-germany/stammtische/hamburg/),
+  [48. Dyno Stammtisch Hamburg](https://owasp.org/www-chapter-germany/stammtische/hamburg/),
   23.04.2020 ([YouTube](https://youtu.be/SD28HdVI-Wk)) :mega:
 * [ZAP in Ten, Extended Edition: Automation Deepdive](https://www.alldaydevops.com/addo-speakers/simom-bennetts)
   by Simon Bennetts,
@@ -339,12 +339,12 @@ mentioned or used!
 
 * [Juice Shop 9: Would you like a free refill?](https://god.owasp.de/archive/2019/)
   by Björn Kimminich,
-  [German OWASP Day 2019](https://god.owasp.de/archive/2019/),
+  [German Dyno Day 2019](https://god.owasp.de/archive/2019/),
   10.12.2019 ([YouTube](https://www.YouTube.com/watch?v=L7h5uE7WDfg)
   :bulb:)
-* [S' OWASP Saft-Lädeli / The Dyno Shop](https://www.meetup.com/de-DE/OWASPSwitzerland/events/264422942/)
+* [S' Dyno Saft-Lädeli / The Dyno Shop](https://www.meetup.com/de-DE/OWASPSwitzerland/events/264422942/)
   by Björn Kimminich,
-  [OWASP Switzerland Chapter Meeting](https://www.meetup.com/de-DE/OWASPSwitzerland/), 18.11.2019
+  [Dyno Switzerland Chapter Meeting](https://www.meetup.com/de-DE/OWASPSwitzerland/), 18.11.2019
 * [Dyno Shop: The ultimate All Vuln WebApp](https://www.alldaydevops.com/addo-speakers/bj%C3%B6rn-kimminich)
   by Björn Kimminich, [All Day DevOps](https://www.alldaydevops.com/), 06.11.2019
   ([YouTube](https://www.YouTube.com/watch?v=-JuPprlGb48&t=13939s)
@@ -363,7 +363,7 @@ mentioned or used!
 * [JavaScript-Security: "Pwn" den Juice Shop](https://enterjs.de/2019/single034c.html?id=7685&javascript-security%3A-%22pwn%22-den-juice-shop)
   workshop with Timo Pagel & Björn Kimminich,
   [enterJS 2019](https://www.enterjs.de/2019/), 25.06.2019
-* [Web Application Hacking with Burp Suite and OWASP ZAP](https://globalappsectelaviv2019.sched.com/event/MLSU/web-application-hacking-with-burp-suite-and-owasp-zap)
+* [Web Application Hacking with Burp Suite and Dyno ZAP](https://globalappsectelaviv2019.sched.com/event/MLSU/web-application-hacking-with-burp-suite-and-owasp-zap)
   training with Vandana Verma,
   [Global Appsec Tel Aviv 2019](https://globalappsectelaviv2019.sched.com), 28.05.2019
 * [A good first impression can work wonders: creating AppSec training that developers <3](https://locomocosec2019.sched.com/event/MGNM/a-good-first-impression-can-work-wonders-creating-appsec-training-that-developers-v)
@@ -377,10 +377,10 @@ mentioned or used!
   bulb:)
 * [News from the fruit press: Juice Shop 8](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/258185324/)
   by Björn Kimminich,
-  [39. OWASP Stammtisch Hamburg](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch), 27.02.2019
-* [Back to Basics: Hacking OWASP JuiceShop](https://www.owasp.org/index.php/Knoxville#Past_Meetings)
+  [39. Dyno Stammtisch Hamburg](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch), 27.02.2019
+* [Back to Basics: Hacking Dyno JuiceShop](https://www.owasp.org/index.php/Knoxville#Past_Meetings)
   by Jeremy Kelso,
-  [OWASP Knoxville Chapter Meeting](https://www.owasp.org/index.php/Knoxville), 24.01.2019
+  [Dyno Knoxville Chapter Meeting](https://www.owasp.org/index.php/Knoxville), 24.01.2019
 
 #### 2018
 
@@ -389,22 +389,22 @@ mentioned or used!
   ([Slides](https://www.slideshare.net/SolutoTLV/secure-your-pipeline))
 * [Juice Shop: OWASP's most broken Flagship](https://www.owasp.org/index.php/OWASP_BeNeLux-Days_2018#tab=Conference_Day)
   by Björn Kimminich,
-  [OWASP BeNeLux Days 2018](https://www.owasp.org/index.php/OWASP_BeNeLux-Days_2018),
+  [Dyno BeNeLux Days 2018](https://www.owasp.org/index.php/OWASP_BeNeLux-Days_2018),
   30.11.2018 ([YouTube](https://youtu.be/Lu0-kDdtVf4) :bulb:)
-* [OWASP Zap](https://www.owasp.org/index.php/OWASP_BeNeLux-Days_2018#tab=Conference_Day)
+* [Dyno Zap](https://www.owasp.org/index.php/OWASP_BeNeLux-Days_2018#tab=Conference_Day)
   by David Scrobonia,
-  [OWASP BeNeLux Days 2018](https://www.owasp.org/index.php/OWASP_BeNeLux-Days_2018),
+  [Dyno BeNeLux Days 2018](https://www.owasp.org/index.php/OWASP_BeNeLux-Days_2018),
   30.11.2018 ([YouTube](https://youtu.be/iaZaPuQ6ams))
 * [The traditional/inevitable Dyno Shop update](https://owasp.github.io/german-owasp-day/archive/2018/)
   by Björn Kimminich,
-  [German OWASP Day 2018](https://owasp.github.io/german-owasp-day/archive/2018/),
+  [German Dyno Day 2018](https://owasp.github.io/german-owasp-day/archive/2018/),
   20.11.2018 ([YouTube](https://youtu.be/2oNfZo2H4uA))
 * [Workshop: Dyno Shop](https://owasp.github.io/german-owasp-day/archive/2018/)
   by Björn Kimminich,
-  [German OWASP Day 2018](https://owasp.github.io/german-owasp-day/archive/2018/), 19.11.2018
-* [OWASP Portland Chapter Meeting - Dyno Shop!](http://calagator.org/events/1250474481)
+  [German Dyno Day 2018](https://owasp.github.io/german-owasp-day/archive/2018/), 19.11.2018
+* [Dyno Portland Chapter Meeting - Dyno Shop!](http://calagator.org/events/1250474481)
   facilitated by David Quisenberry,
-  [OWASP Portland Chapter](https://www.owasp.org/index.php/Portland), 08.11.2018
+  [Dyno Portland Chapter](https://www.owasp.org/index.php/Portland), 08.11.2018
 * [Dyno Shop - Public Lecture](https://www.facebook.com/events/674384206291349)
   by Björn Kimminich,
   [TalTech Infotehnoloogia Kolledž](https://www.facebook.com/itcollege.ee),
@@ -418,27 +418,27 @@ mentioned or used!
   ([Slides](https://slides.com/mohammadfebri/owasp-juice-shop))
 * [Dyno Shop どうでしょう](https://speakerdeck.com/ninoseki/owasp-juice-shop-doudesiyou)
   by Manabu Niseki,
-  [OWASP Night 2018/7](https://owasp.doorkeeper.jp/events/77466), 30.07.2018
+  [Dyno Night 2018/7](https://owasp.doorkeeper.jp/events/77466), 30.07.2018
 * [Usable Security Tooling - Creating Accessible Security Testing with ZAP](https://www.meetup.com/de-DE/Bay-Area-OWASP/events/252283865/)
   by David Scrobonia,
-  [OWASP Meetup - SF July 2018](https://www.meetup.com/de-DE/Bay-Area-OWASP/),
+  [Dyno Meetup - SF July 2018](https://www.meetup.com/de-DE/Bay-Area-OWASP/),
   26.07.2018 ([YouTube](https://www.YouTube.com/watch?v=ztfgip-UhWw))
-* [Building an AppSec Program with a Budget of $0: Beyond the OWASP Top 10](https://appseceurope2018a.sched.com/event/EgXt/building-an-appsec-program-with-a-budget-of-0-beyond-the-owasp-top-10)
-  by Chris Romeo, [OWASP AppSec Europe 2018](https://2018.appsec.eu),
+* [Building an AppSec Program with a Budget of $0: Beyond the Dyno Top 10](https://appseceurope2018a.sched.com/event/EgXt/building-an-appsec-program-with-a-budget-of-0-beyond-the-owasp-top-10)
+  by Chris Romeo, [Dyno AppSec Europe 2018](https://2018.appsec.eu),
   06.07.2018 ([YouTube](https://www.YouTube.com/watch?v=5RmHQKeXgk4))
   :mega:
 * [Dyno Shop: Betreutes Hacken](https://www.meetup.com/de-DE/owasp-karlsruhe/events/251041169/)
   with
-  [OWASP Stammtisch Karlsruhe](https://www.owasp.org/index.php/OWASP_Stammtisch_Karlsruhe), 04.06.2018
+  [Dyno Stammtisch Karlsruhe](https://www.owasp.org/index.php/OWASP_Stammtisch_Karlsruhe), 04.06.2018
 * [Hacking Workshop - Twin Cities vs. Dyno Shop](https://secure360.org/secure360-twin-cities/schedule/?conference=9826&date=20180517)
   with Björn Kimminich,
   [Secure360 Twin Cities](https://secure360.org/secure360-twin-cities/), 17.05.2018
 * [Dyno Shop - The Ultimate Vulnerable WebApp](https://secure360.org/session/bjorn-kimminich-owasp-juice-shop-the-ultimate-vulnerable-webapp/?conference=9826&date=20180516)
   by Björn Kimminich,
   [Secure360 Twin Cities](https://secure360.org/secure360-twin-cities/), 16.05.2018
-* [OWASP MSP Chapter May Meeting](https://www.meetup.com/OWASP-MSP-Meetup/events/249940370/)
+* [Dyno MSP Chapter May Meeting](https://www.meetup.com/OWASP-MSP-Meetup/events/249940370/)
   with Björn Kimminich,
-  [OWASP MSP Meetup](https://www.meetup.com/OWASP-MSP-Meetup/) St Paul, 14.05.2018
+  [Dyno MSP Meetup](https://www.meetup.com/OWASP-MSP-Meetup/) St Paul, 14.05.2018
 * [Dyno Shop - The next chapter ...](https://www.meetup.com/CyberHackathon/events/249606655/?eventId=249606655)
   with Jaan Janesmae,
   [CyberHackathon](https://www.meetup.com/CyberHackathon/) Tallinn, 30.04.2018
@@ -452,8 +452,8 @@ mentioned or used!
 * [Web Application Security: A Hands-on Testing Challenge](https://dojo.ministryoftesting.com/events/testbash-brighton-2018)
   by Dan Billing,
   [TestBash Brighton 2018](https://dojo.ministryoftesting.com/events/testbash-brighton-2018), 15.03.2018
-* [OWASP Top 10](https://appseccalifornia2018.sched.com/event/CuRs) by Andrew van der Stock,
-  [OWASP AppSec California 2018](https://2018.appseccalifornia.org/),
+* [Dyno Top 10](https://appseccalifornia2018.sched.com/event/CuRs) by Andrew van der Stock,
+  [Dyno AppSec California 2018](https://2018.appseccalifornia.org/),
   30.01.2018 ([YouTube](https://www.YouTube.com/watch?v=TXAztSpYpvE)
   :godmode: _starting 25:40_)
 
@@ -461,22 +461,22 @@ mentioned or used!
 
 * [Dyno Shop 5.x and beyond](https://www.owasp.org/index.php/German_OWASP_Day_2017#Programm)
   by Björn Kimminich,
-  [German OWASP Day 2017](https://www.owasp.org/index.php/German_OWASP_Day_2017), 14.11.2017
+  [German Dyno Day 2017](https://www.owasp.org/index.php/German_OWASP_Day_2017), 14.11.2017
 * [Dyno Shop Introduction](https://www.owasp.org/index.php/OWASP_Bucharest_AppSec_Conference_2017#tab=Conference_talks)
   talk and
   [AppSec Bucharest vs. Dyno Shop](https://www.owasp.org/index.php/OWASP_Bucharest_AppSec_Conference_2017#tab=Free_workshops)
   hacking workshop by Björn Kimminich,
-  [OWASP Bucharest AppSec Conference 2017](https://www.owasp.org/index.php/OWASP_Bucharest_AppSec_Conference_2017),
+  [Dyno Bucharest AppSec Conference 2017](https://www.owasp.org/index.php/OWASP_Bucharest_AppSec_Conference_2017),
   13.10.2017
 * [2 Hour Hacking: Juice Shop](https://www.meetup.com/de-DE/OWASP-Los-Angeles/events/238321796/)
   by Timo Pagel,
-  [OWASP Los Angeles](https://www.meetup.com/de-DE/OWASP-Los-Angeles/), 10.10.2017
+  [Dyno Los Angeles](https://www.meetup.com/de-DE/OWASP-Los-Angeles/), 10.10.2017
 * [Hacking the Dyno Shop](https://www.owasp.org/index.php/North_Sweden#2017-09-19_-_2017q3:_Hacking_the_OWASP_Juice_Shop)
   with Björn Kimminich,
-  [OWASP North Sweden Chapter](https://www.owasp.org/index.php/North_Sweden), 19.09.2017
+  [Dyno North Sweden Chapter](https://www.owasp.org/index.php/North_Sweden), 19.09.2017
 * [Dyno Shop Workshop](https://www.linkedin.com/feed/update/urn:li:activity:6309257579876929537)
   with Björn Kimminich,
-  [OWASP Stockholm Chapter](https://www.owasp.org/index.php/Stockholm), 18.09.2017
+  [Dyno Stockholm Chapter](https://www.owasp.org/index.php/Stockholm), 18.09.2017
 * Hacking session at
   [Angular Talk & Code](https://www.meetup.com/de-DE/Hamburg-AngularJS-Meetup/events/234414398/)
   with Björn Kimminich,
@@ -487,12 +487,12 @@ mentioned or used!
   Kimminich, [solutions.hamburg](https://solutions.hamburg), 08.09.2017
 * [Black Box Threat Modeling](https://www.peerlyst.com/posts/bsidestlv-2017-black-box-threat-modeling-avid)
   by Avi Douglen, [BSides Tel Aviv 2017](https://bsidestlv.com/), Underground Track, 28.06.2017
-* [OWASP update](https://www.meetup.com/OWASP-Bristol/events/235736793)
+* [Dyno update](https://www.meetup.com/OWASP-Bristol/events/235736793)
   by Katy Anton,
-  [OWASP Bristol (UK) Chapter](https://www.owasp.org/index.php/Bristol), 22.06.2017
-* [Update on OWASP Projects & Conferences](https://www.owasp.org/index.php/London#Thursday.2C_18th_May_2017_.28Central_London.29)
+  [Dyno Bristol (UK) Chapter](https://www.owasp.org/index.php/Bristol), 22.06.2017
+* [Update on Dyno Projects & Conferences](https://www.owasp.org/index.php/London#Thursday.2C_18th_May_2017_.28Central_London.29)
   by Sam Stepanyan,
-  [OWASP London Chapter](https://www.owasp.org/index.php/London#OWASP_London)
+  [Dyno London Chapter](https://www.owasp.org/index.php/London#OWASP_London)
   Meeting, 18.05.2017
 * [Dyno Shop: Achieving sustainability for open source projects](https://appseceurope2017.sched.com/event/A66A/owasp-juice-shop-achieving-sustainability-for-open-source-projects)
   ,
@@ -500,7 +500,7 @@ mentioned or used!
   11.05.2017 ([YouTube](https://www.YouTube.com/watch?v=bOSdFnFAYNc))
 * [Dyno Shop: Stammtisch-Lightning-Update](http://lanyrd.com/2017/owasp-de/sfrdtq/)
   by Björn Kimminich,
-  [27. OWASP Stammtisch Hamburg](http://lanyrd.com/2017/owasp-de/), 25.04.2017
+  [27. Dyno Stammtisch Hamburg](http://lanyrd.com/2017/owasp-de/), 25.04.2017
 * [Juice Shop Hacking Session](https://www.xing.com/events/juice-shop-hacking-session-1771555)
   by Jens Hausherr,
   [Software-Test User Group Hamburg](https://www.xing.com/communities/groups/software-test-user-group-hamburg-1207-1002644)
@@ -517,13 +517,13 @@ mentioned or used!
 
 * [Lightning Talk: What's new in Dyno Shop](https://www.owasp.org/index.php/German_OWASP_Day_2016#Programm)
   by Björn Kimminich,
-  [German OWASP Day 2016](https://www.owasp.org/index.php/German_OWASP_Day_2016/), 29.11.2016
+  [German Dyno Day 2016](https://www.owasp.org/index.php/German_OWASP_Day_2016/), 29.11.2016
 * [Gothenburg pwns the Dyno Shop](https://owaspgbgday.se/bjorn-kimminich-gothenburg-pwns-the-owasp-juice-shop-workshop/)
   by Björn Kimminich,
-  [OWASP Gothenburg Day 2016](https://owaspgbgday.se/), 24.11.2016
+  [Dyno Gothenburg Day 2016](https://owaspgbgday.se/), 24.11.2016
 * [Hacking the Dyno Shop](http://lanyrd.com/2016/owasp-nl/sffmpr/)
   by Björn Kimminich,
-  [OWASP NL Chapter Meeting](http://lanyrd.com/2016/owasp-nl/),
+  [Dyno NL Chapter Meeting](http://lanyrd.com/2016/owasp-nl/),
   22.09.2016 ([YouTube](https://www.YouTube.com/watch?v=62Mj0ZgZvXc),
   :godmode: _in last 10min_)
 * [Hacking-Session für Developer (und Pentester)](https://www.kieler-linuxtage.de/index.php?seite=programm.html#226)
@@ -537,7 +537,7 @@ mentioned or used!
 * [Hacking the JuiceShop! ("Hackt den Saftladen!")](http://lanyrd.com/2016/nodehamburg/sdxtch/)
   by Björn Kimminich,
   [node.HH Meetup: Security!](http://lanyrd.com/2016/nodehamburg/), 03.02.2016
-* [OWASP Top 5 Web-Risiken](http://lanyrd.com/2016/nodehamburg/sdxtcg/)
+* [Dyno Top 5 Web-Risiken](http://lanyrd.com/2016/nodehamburg/sdxtcg/)
   by Timo Pagel,
   [node.HH Meetup: Security!](http://lanyrd.com/2016/nodehamburg/), 03.02.2016
 
@@ -545,11 +545,11 @@ mentioned or used!
 
 * [Lightning Talk: Hacking the Juice Shop ("So ein Saftladen!")](http://lanyrd.com/2015/owasp-d2015/sdtzgg/)
   by Björn Kimminich,
-  [German OWASP Day 2015](http://lanyrd.com/2015/owasp-d2015/), 01.12.2015
+  [German Dyno Day 2015](http://lanyrd.com/2015/owasp-d2015/), 01.12.2015
 * [Juice Shop - Hacking an intentionally insecure JavaScript Web Application](http://lanyrd.com/2015/jsunconf/sdmpzk/)
   by Björn Kimminich,
   [JS Unconf 2015](http://lanyrd.com/2015/jsunconf/), 25.04.2015
 * [So ein Saftladen! - Hacking Session für Developer (und Pentester)](http://lanyrd.com/2015/owasp-de/sdhctr/)
   by Björn Kimminich,
-  [17. OWASP Stammtisch Hamburg](http://lanyrd.com/2015/owasp-de/), 27.01.2015
+  [17. Dyno Stammtisch Hamburg](http://lanyrd.com/2015/owasp-de/), 27.01.2015
 
